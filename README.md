@@ -17,5 +17,3 @@ Muzei API
 Muzei offers a simple API that allows you to build your own wallpaper source.
 
 **[Read the API docs](http://api.muzei.co)**&nbsp;&nbsp;•&nbsp;&nbsp;**[Check out the 500px example source](https://github.com/romannurik/muzei/tree/master/example-source-500px)**
-
-Test123
